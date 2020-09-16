@@ -27,3 +27,5 @@ model
     "stock": number,
     "_class": string
 }
+
+demo link: https://youtu.be/Yj8E1xyhx8s
