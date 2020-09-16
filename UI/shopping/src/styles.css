@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+/** {*/
+/*  font-family: 'Microsoft Yahei', 'Times New Roman';*/
+/*  !*font-size: 62.5%;*!*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  letter-spacing: 0;*/
+/*  border: none;*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+html,
+body {
+  height: 100%;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
