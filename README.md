@@ -3,7 +3,7 @@
 This project use Java Spring Boot framwork, Angular 10 to build the back-end, front-end and use MongoDB as the database.
 
 Back-End:
-Java Spting Boot,
+Java Spring Boot,
 Entity Model,
 Api controller,
 Resource,
